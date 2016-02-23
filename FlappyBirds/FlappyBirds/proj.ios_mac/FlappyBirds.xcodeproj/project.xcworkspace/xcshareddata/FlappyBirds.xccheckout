@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A14A19B4-F49D-4FD5-9EE4-EF4953EBAD66</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlappyBirds</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6A2780F9DE40402511CB5182C192CC7206BF3BB3</key>
+		<string>https://bitbucket.org/scorch1993/flappybirdcocos.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlappyBirds/FlappyBirds/proj.ios_mac/FlappyBirds.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6A2780F9DE40402511CB5182C192CC7206BF3BB3</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/scorch1993/flappybirdcocos.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6A2780F9DE40402511CB5182C192CC7206BF3BB3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6A2780F9DE40402511CB5182C192CC7206BF3BB3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TatemGames</string>
+		</dict>
+	</array>
+</dict>
+</plist>
